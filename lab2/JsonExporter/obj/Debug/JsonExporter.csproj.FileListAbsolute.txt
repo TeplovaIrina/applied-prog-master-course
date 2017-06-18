@@ -1,0 +1,18 @@
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.csprojResolveAssemblyReference.cache
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\JsonExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\JsonExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\JsonExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\JsonExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\Exporter.Interface.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\Exporter.Interface.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\JsonExporter\obj\Debug\JsonExporter.pdb

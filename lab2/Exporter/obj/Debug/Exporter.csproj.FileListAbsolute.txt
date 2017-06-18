@@ -1,0 +1,19 @@
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Exporter.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Exporter.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Exporter.Interface.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Exporter.Interface.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\obj\Debug\Exporter.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter\obj\Debug\Exporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\obj\Debug\Exporter.csprojResolveAssemblyReference.cache
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\obj\Debug\Exporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\obj\Debug\Exporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Exporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Exporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,43 @@
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.csprojResolveAssemblyReference.cache
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.csprojResolveAssemblyReference.cache
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\Exporter.Resolver\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Resolver.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Exporter.Interface.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\JsonExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\TxtExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\XlsExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\Exporter.Resolver\obj\Debug\Exporter.Resolver.pdb

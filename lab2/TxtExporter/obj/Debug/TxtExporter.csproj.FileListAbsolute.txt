@@ -1,0 +1,14 @@
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\bin\Debug\TxtExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\bin\Debug\TxtExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.csprojResolveAssemblyReference.cache
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\bin\Debug\TxtExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\bin\Debug\TxtExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\bin\Debug\Exporter.Interface.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\bin\Debug\Exporter.Interface.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\TxtExporter\obj\Debug\TxtExporter.pdb

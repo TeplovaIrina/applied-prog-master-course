@@ -1,0 +1,16 @@
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\bin\Debug\XlsExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\bin\Debug\XlsExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.csprojResolveAssemblyReference.cache
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\bin\Debug\XlsExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\bin\Debug\XlsExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\bin\Debug\Exporter.Interface.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\bin\Debug\Exporter.Interface.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\XlsExporter\obj\Debug\XlsExporter.pdb

@@ -1,0 +1,51 @@
+d:\документы\visual studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe.config
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\ExporterLab.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Exporter.pdb
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\obj\Debug\ExporterLab.csprojResolveAssemblyReference.cache
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\obj\Debug\ExporterLab.exe
+D:\Документы\Visual Studio 2015\Projects\ExporterLab\ExporterLab\obj\Debug\ExporterLab.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe.config
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.exe
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\TxtExporter.dll
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\bin\Debug\TxtExporter.pdb
+D:\Документы\GitHub\applied-prog-master-course\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe.config
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.exe
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.exe
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\ExporterLab.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\TxtExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Entity.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Interface.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Exporter.Resolver.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\TxtExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\obj\Debug\ExporterLab.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\XlsExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\JsonExporter.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\XlsExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\JsonExporter.pdb
+C:\Users\Константин\Desktop\Новая папка (2)\lab2\ExporterLab\ExporterLab\bin\Debug\Newtonsoft.Json.xml
