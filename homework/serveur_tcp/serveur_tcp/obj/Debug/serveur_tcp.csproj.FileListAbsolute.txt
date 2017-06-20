@@ -1,0 +1,6 @@
+c:\users\ирина\documents\visual studio 2015\Projects\serveur_tcp\serveur_tcp\bin\Debug\serveur_tcp.exe.config
+C:\Users\Ирина\Documents\Visual Studio 2015\Projects\serveur_tcp\serveur_tcp\bin\Debug\serveur_tcp.exe
+C:\Users\Ирина\Documents\Visual Studio 2015\Projects\serveur_tcp\serveur_tcp\bin\Debug\serveur_tcp.pdb
+C:\Users\Ирина\Documents\Visual Studio 2015\Projects\serveur_tcp\serveur_tcp\obj\Debug\serveur_tcp.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Visual Studio 2015\Projects\serveur_tcp\serveur_tcp\obj\Debug\serveur_tcp.exe
+C:\Users\Ирина\Documents\Visual Studio 2015\Projects\serveur_tcp\serveur_tcp\obj\Debug\serveur_tcp.pdb
